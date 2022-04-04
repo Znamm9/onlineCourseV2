@@ -67,8 +67,6 @@ public class TestInit {
         strings.add("bbbb");
         strings.add("cccc");
         strings.add("ffff");
-        strings.add("eeee");
-        strings.add("wwwww");
 
         for (String elementInArray : strings){
             System.out.println(elementInArray);
